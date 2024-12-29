@@ -3,15 +3,26 @@ The times of day are typically referred to as the following:
 1. **Dawn**: The first light of the day, just before sunrise.
 2. **Sunrise**: The moment the sun rises above the horizon.
 3. **Morning**: From sunrise until around 12:00 PM (noon).
-4. **Afternoon**: From 12:00 PM (noon) until around 6:00 PM.
-5. **Evening**: From around 6:00 PM until just before night (around sunset).
-6. **Sunset**: The moment the sun sets below the horizon.
-7. **Twilight**: The period between sunset and night, when the sky remains partially lit.
-   - **Civil Twilight**: The time when the sun is just below the horizon, enough light remains for most outdoor activities.
-   - **Nautical Twilight**: The time when the sun is 6 to 12 degrees below the horizon, the horizon is still visible at sea.
-   - **Astronomical Twilight**: The time when the sun is 12 to 18 degrees below the horizon, and the sky is dark enough for astronomers to observe celestial objects.
-8. **Dusk**: The period of twilight just after sunset, when the sky is partially dark but some light remains.
-9. **Night**: From sunset until late night or early morning, typically around 12:00 AM (midnight).
-10. **Late Night**: Often refers to the time after 12:00 AM and until early morning.
+   - **Early Morning**: The first few hours of the morning, typically from 5:00 AM to 9:00 AM.
+   - **Late Morning**: From around 9:00 AM to 12:00 PM.
+4. **Noon**: The exact time when the sun is at its highest point in the sky, around 12:00 PM.
+5. **Afternoon**: From 12:00 PM (noon) until around 6:00 PM.
+   - **Early Afternoon**: From 12:00 PM to around 3:00 PM.
+   - **Late Afternoon**: From around 3:00 PM to 6:00 PM.
+6. **Evening**: From around 6:00 PM until just before night (around sunset).
+   - **Early Evening**: From around 6:00 PM to 8:00 PM.
+   - **Late Evening**: From around 8:00 PM to sunset.
+7. **Sunset**: The moment the sun sets below the horizon.
+8. **Twilight**: The period between sunset and night, when the sky remains partially lit.
+   - **Civil Twilight**: The time when the sun is just below the horizon, enough light remains for most outdoor activities (approximately 0 to 6 degrees below the horizon).
+   - **Nautical Twilight**: The time when the sun is 6 to 12 degrees below the horizon, the horizon is still visible at sea (approximately 6 to 12 degrees below the horizon).
+   - **Astronomical Twilight**: The time when the sun is 12 to 18 degrees below the horizon, and the sky is dark enough for astronomers to observe celestial objects (approximately 12 to 18 degrees below the horizon).
+9. **Dusk**: The period of twilight just after sunset, when the sky is partially dark but some light remains.
+10. **Night**: From sunset until late night or early morning, typically around 12:00 AM (midnight).
+    - **Early Night**: From sunset to around 9:00 PM.
+    - **Late Night**: From around 9:00 PM until early morning.
 11. **Midnight**: 12:00 AM, the transition between one day and the next.
+12. **Late Night (After Midnight)**: Refers to the time after 12:00 AM and until early morning, when most people are asleep.
+13. **Early Morning**: From around 12:00 AM to sunrise (before the first light of dawn, typically 12:00 AM to 5:00 AM).
+
 
